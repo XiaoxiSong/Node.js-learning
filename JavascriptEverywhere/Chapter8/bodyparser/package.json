@@ -1,0 +1,8 @@
+{
+    "name" : "bodyparser",
+    "description" : "this is a connect body parser demo",
+    "version" : "0.0.1",
+    "dependencies" : {
+        "connect" : "1.9.1"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "basicauth demo",
+    "description": "this is a connect basic auth demo",
+    "version": "0.0.1",
+    "dependedcies": {
+        "connect": "1.9.1"
+    }
+}
